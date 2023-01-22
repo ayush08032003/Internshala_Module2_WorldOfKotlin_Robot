@@ -1,0 +1,1 @@
+data class Coffee(val BlackCoffee:Boolean = true, val noOfSpoons:Int = 2)
